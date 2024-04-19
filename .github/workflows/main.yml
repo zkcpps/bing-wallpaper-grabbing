@@ -6,7 +6,7 @@ name: Java CI with Maven
 on:
   schedule:
     - cron:  '40 11 * * *'
-
+    - cron:  '40 1 * * *'
 jobs:
   build:
 
@@ -27,7 +27,7 @@ jobs:
     - name: Commit files
       run: |
          git config --local user.email "1129820657@qq.com"
-         git config --local user.name "kyle"
+         git config --local user.name "zkcpps"
          git pull
          git add README.md
          git add bing-wallpaper.md
