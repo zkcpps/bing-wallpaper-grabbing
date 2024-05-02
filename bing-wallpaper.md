@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2024-05-03 | [Blue Dragon Lava Flow, Craters of the Moon National Monument, Idaho (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.CratersOfTheMoon_EN-US6516727783_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-05-02 | [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://cn.bing.com/th?id=OHR.HawaiianLei_EN-US6290126556_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-04-30 | [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
